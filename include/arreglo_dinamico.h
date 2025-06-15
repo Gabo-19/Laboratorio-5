@@ -15,4 +15,9 @@ typedef struct {
 ArregloDinamico* crearArreglo(int capacidadInicial);
 void agregarElemento(ArregloDinamico* arr, int valor);
 
+void eliminarElemento(ArregloDinamico* arr, int indice);
+int obtenerElemento(ArregloDinamico* arr, int indice);
+void imprimirArreglo(ArregloDinamico* arr);
+void liberarArreglo(ArregloDinamico* arr);
+
 #endif
