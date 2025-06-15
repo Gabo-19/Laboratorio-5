@@ -17,7 +17,7 @@ make
 
 Esto compilará los archivos del proyecto y generará un ejecutable llamado main.
 
-## 3. Pasos para ejecutar
+3. Pasos para ejecutar
 Una vez compilado, se puede correr el programa con el comando:
 
 
