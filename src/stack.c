@@ -47,5 +47,5 @@ void liberarPila(Pila* pila) {
     while (!estaVacia(pila)) {
         pop(pila);
     }
-    free(pila);
+    free(pila);
 }

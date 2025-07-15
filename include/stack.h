@@ -15,11 +15,11 @@ typedef struct {
 Pila* crearPila();
 void push(Pila* pila, int valor);
 int pop(Pila* pila);
-int peek(Pila* pila);
+int peek(Pila* pila);
 
 int estaVacia(Pila* pila);
 void imprimirPila(Pila* pila);
-void liberarPila(Pila* pila);
+void liberarPila(Pila* pila);
 
 #endif
 
